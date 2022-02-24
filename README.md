@@ -11,4 +11,4 @@ This project is made for learning purpose from Youtube using React, Nodejs, Mong
 1- npm install (in both client server side)
 2- npm start (for both)
 
-## note: don't forget to connect your own database.
+note: don't forget to connect your own database.
